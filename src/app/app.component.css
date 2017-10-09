@@ -1,0 +1,38 @@
+#loginButton{
+    background-color: #3b5998;
+    color: #ffffff;
+    border-style: none;
+    width: 202px;
+    height: 38px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-radius: .25rem;
+}
+
+#logoutButton{
+    background-color: #3b5998;
+    color: #ffffff;
+    border-style: none;
+    width: 202px;
+    height: 38px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border-radius: .25rem;
+}
+
+.fbContainer{
+  margin-right: 10px;
+}
+
+.fbAuthStatusContainer{
+   display: flex;
+  align-items: center;
+  justify-content: center;
+   margin-right: 10px;
+   height: 38px;  
+}
+
+
+.authButtonContainer{
+  height: 38px;
+}
