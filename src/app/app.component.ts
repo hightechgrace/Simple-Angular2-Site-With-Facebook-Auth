@@ -17,7 +17,7 @@ export class AppComponent implements OnInit {
   constructor(private fb: FacebookService, private _ngZone: NgZone) {
 
     let initParams: InitParams = {
-      appId: '2013423405582754',
+      appId: '', //put your appId here
       xfbml: true,
       version: 'v2.10',
       cookie: true
