@@ -1,4 +1,5 @@
 # SocialTimerPr
+To make the project work you should go to app.component.ts and add your appId. If you don't have one go to https://developers.facebook.com/apps/ and add an app and get your appId.
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
